@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Schedule</string>
+    <string name="or_sign_up">or Sign Up</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="or">or</string>
+    <string name="schedule">Schedule</string>
+    <string name="what_the_fuck_is_this_shit">what the fuck is this shit</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="name">Name</string>
+    <string name="sign_up">Sign Up</string>
 </resources>
