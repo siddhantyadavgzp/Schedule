@@ -39,7 +39,7 @@ public class LoginFragment extends Fragment {
 
 
     public void onClickEvents() {
-
+        
         signup.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -47,7 +47,12 @@ public class LoginFragment extends Fragment {
             }
         });
 
+        login.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
 
+            }
+        });
     }
 
 
